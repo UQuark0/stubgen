@@ -1,0 +1,7 @@
+{
+  "pattern": "ABABA%s\nGALAM%.0fAGA%s",
+  "values": [
+    ["test", 1, "go"],
+    ["test", 2, "brrrr"]
+  ]
+}
